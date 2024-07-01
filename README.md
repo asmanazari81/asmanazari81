@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asmanazari81
 - 👀 I’m interested in Graphics.
-- 🌱 I’m currently learning programming.
+- 🌱 I am learning graphic design
 - 💞️ I’m looking to collaborate on 
 - ⚡ Fun fact: working
 
